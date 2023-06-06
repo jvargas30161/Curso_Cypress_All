@@ -1,0 +1,21 @@
+Bienvenidos al proyecto Cypress
+
+1.- npm  init                           ==>> Configuración de un paquete
+
+2.- npm install cypress --save-dev      ==>  Instalación
+    En el caso de tener error al instalar cypress
+2.1 npm cypress install -- force        ==>  Esto lo ejecuto cuando quiero forzar la instalación.
+
+
+3. Npx instalación https://www.npmjs.com/package/npx
+    3.1 ==> npm install -g npx          ==> Con esto insataremos la ibreria npx 
+
+De tener instalado correctamente cypes, lo abrimos.
+
+4.- node_modules\.bin\cypress open      ==>  Con esto vamos a ejecutar cypress  
+ 4.1 Tambien podemos abrir cypes        ==>     npx cypes open
+
+                                            node_modules\.bin\cypress open
+ 
+ 5.- Parar consola ==>                      ctrl + c
+ 

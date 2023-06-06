@@ -1,0 +1,12 @@
+// You can read more here:
+// https://on.cypress.io/configuration
+//************************************************
+
+//Import comands.js using Es2015 syntax:
+import "./commands";
+
+// Alternatively you con use CommonJS syntax:
+// require("./commands")
+require("cypress-xpath");
+require("cypress-plugin-tab");
+
